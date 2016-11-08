@@ -12,4 +12,4 @@ Worldbuilder will enable users to
 - draw political divisions on continents
 - save those maps to the server for later use
 - export those maps to GeoJson and shapefiles
-- generate and print maps of arbitrary portions of the map using a variety of skins
+- generate and print maps of arbitrary portions of the globe using a variety of skins
